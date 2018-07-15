@@ -1,10 +1,10 @@
 ## Clyde Hsu
 
-You can use the [editor on GitHub](https://github.com/ClydeHsu/ClydeHsu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+E-mail : pj0827@gmail.com
 
-Email:pj0827@gmail.com
+Phone : +886 922-095-745
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Location : Taiwan, Taipei
 
 ### Markdown
 
