@@ -3,12 +3,14 @@
 - E-mail : pj0827@gmail.com
 - Phone : +886 922-095-745
 - Location : Taiwan, Taipei
+- Education : National Central University, dept. of Computer Science for Master degree.
 
-### Experience
+## Job
 
 - ASUS Tek 2017/9 ~ 2018/3 : Project/program manager(Supervisor)
 - ASUS Tek 2014/11 ~ 2017/9 : Project/program manager
 
+## Experience
 
 ```markdown
 Syntax highlighted code block
