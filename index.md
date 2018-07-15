@@ -4,9 +4,11 @@
 - Phone : +886 922-095-745
 - Location : Taiwan, Taipei
 
-### Markdown
+### Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- ASUS tek 2017/9 ~ 2018/3 : Project/program manager(Supervisor)
+- ASUS Tek 2014/11 ~ 2017/9 : Project/program manager
+
 
 ```markdown
 Syntax highlighted code block
