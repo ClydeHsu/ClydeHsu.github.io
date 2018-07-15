@@ -8,7 +8,7 @@
 Date | Degree | School/Dept.
 ------------ | ------------- | -------------
 2012 - 2014 | Master | National Central University, dept. of Computer Science
-2012 - 2014 | Master | National Central University, dept. of Computer Science
+2006 - 2010 | Bachelor | Yuanzhi University, dept. of Computer Science
 
 
 ## Job
