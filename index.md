@@ -6,7 +6,7 @@
 
 ### Experience
 
-- ASUS tek 2017/9 ~ 2018/3 : Project/program manager(Supervisor)
+- ASUS Tek 2017/9 ~ 2018/3 : Project/program manager(Supervisor)
 - ASUS Tek 2014/11 ~ 2017/9 : Project/program manager
 
 
