@@ -1,9 +1,7 @@
 ## Clyde Hsu
 
 E-mail : pj0827@gmail.com
-
 Phone : +886 922-095-745
-
 Location : Taiwan, Taipei
 
 ### Markdown
