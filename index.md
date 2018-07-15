@@ -3,8 +3,7 @@
 - E-mail : pj0827@gmail.com
 - Phone : +886 922-095-745
 - Location : Taiwan, Taipei
-- Education :  for Master degree.
-
+- Education : 
 Date | Degree | School/Dept.
 ------------ | ------------- | -------------
 2012 - 2014 | Master | National Central University, dept. of Computer Science
